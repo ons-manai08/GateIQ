@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405995799853",
+    "firebase_url": "https://porte-2ee6a-default-rtdb.firebaseio.com",
+    "project_id": "porte-2ee6a",
+    "storage_bucket": "porte-2ee6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405995799853:android:baadd0a1c3447f324affa4",
+        "android_client_info": {
+          "package_name": "com.example.defi_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-97qnpzYY2dpdjNSh6zehJhUYZO7Z-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
