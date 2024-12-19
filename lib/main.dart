@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Campus Connect',
+      title: 'GateIQ',
       theme: ThemeData(
         primarySwatch: Colors.teal,
       ),
