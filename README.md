@@ -58,15 +58,3 @@ Bienvenue dans **GateIQ**, une solution innovante pour le contrôle d'accès sé
 
 ---
 
-## 🤝 **Contributions**
-
-Les contributions sont les bienvenues ! 🎉  
-N'hésitez pas à :  
-- 🐛 **Créer des issues** pour signaler des problèmes.  
-- 🔄 **Soumettre des pull requests** pour améliorer le projet.  
-
----
-
-## 📄 **License**
-
-Ce projet est sous licence MIT. 📝
